@@ -14,7 +14,7 @@ First steps in Time Series Analysis with Python: Fit **ARIMA** and **SARIMAX-Mod
 
 Tutorial 2:
 
-First steps with Facebook's time series analysis modul **Prophet**
+First steps with Facebook's time series analysis modul **Prophet**: [Jupyter Notebook](https://github.com/kirenz/time-series-analysis/blob/master/Prophet.ipynb)
 
 
 
