@@ -10,5 +10,13 @@ Time series analysis can be used in a multitude of business applications for for
 
 Tutorial 1: 
 
-First steps in Time Series Analysis with Python: Fit ARIMA and SARIMA-Models
+First steps in Time Series Analysis with Python: Fit **ARIMA** and **SARIMAX-Models** with `Statsmodel`
+
+---
+
+Tutorial 2:
+
+First steps with Facebook's time series analysis modul **Prophet**
+
+
 
