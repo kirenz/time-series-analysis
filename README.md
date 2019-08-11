@@ -8,13 +8,12 @@ Time series analysis can be used in a multitude of business applications for for
 
 ---
 
-First steps in Time Series Analysis with Python: Fit **ARIMA** and **SARIMAX-Models** with `Statsmodel`: [Jupyter Notebook](https://github.com/kirenz/time-series-analysis/blob/master/time-series-first-steps.ipynb)
+Introduction to Time Series Analysis with Python: Fit **ARIMA** and **SARIMAX-Models** with `Statsmodel`: [Jupyter Notebook](https://github.com/kirenz/time-series-analysis/blob/master/time-series-first-steps.ipynb)
 
 ---
 
-Tutorial 2:
-
-First steps with Facebook's time series analysis modul **Prophet**: [Jupyter Notebook](https://github.com/kirenz/time-series-analysis/blob/master/Prophet.ipynb)
+Introduction to Facebook's time series analysis modul **Prophet**: [Jupyter Notebook](https://github.com/kirenz/time-series-analysis/blob/master/Prophet.ipynb)
 
 
+---
 
