@@ -6,3 +6,9 @@ Time series analysis can be used in a multitude of business applications for for
 * Predicting the expected number of incoming or churning customers
 * Estimating the effect of a newly launched product on number of sold units
 
+---
+
+Tutorial 1: 
+
+First steps in Time Series Analysis with Python: Fit ARIMA and SARIMA-Models
+
